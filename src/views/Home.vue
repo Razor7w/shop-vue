@@ -1,7 +1,7 @@
 <template>
   <div
   >
-    <v-card-title>Hola</v-card-title>
+    <v-card-title>Productos</v-card-title>
     <v-card-subtitle>
       <v-breadcrumbs :items="items"></v-breadcrumbs>
     </v-card-subtitle>
